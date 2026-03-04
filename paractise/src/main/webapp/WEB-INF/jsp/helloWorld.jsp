@@ -11,7 +11,7 @@
 </head>
 <body>
 	Hello <s:property value="name"/>, today is <s:property value="dateNow" /><br/>
-	<p>hello</p>
+	<p>hello1</p>
 
 </body>
 </html>
